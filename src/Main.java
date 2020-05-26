@@ -1,12 +1,12 @@
 public class Main {
 
     public static void main(String[] args) {
-//        int arr[] = {3,2,6,4,8,9,5};
-//        int[] ints = insertSort(arr, arr.length);
-//        for (int a:
-//             ints) {
-//            System.out.print(a+" ");
-//        }
+        int arr[] = {3,2,6,4,8,9,5};
+        int[] ints = insertSort(arr, arr.length);
+        for (int a:
+             ints) {
+            System.out.print(a+" ");
+        }
 
 
         test();
